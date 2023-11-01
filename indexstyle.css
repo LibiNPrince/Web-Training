@@ -1,0 +1,295 @@
+body{
+    font-family: Inter;
+}
+
+a{
+    text-decoration: none;
+}
+
+/* social */
+.nav-social{
+    display: flex;
+    background-color: #F5F5F5;
+    height: 50px;
+}
+
+.nav-social-content{
+    display: flex;
+    margin-left: 80px;
+}
+
+.fa {
+    padding: 15px;
+    font-size: 30px;
+    width: 5px;
+    height: 5px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 70px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .nav-social-contact{
+    display: flex;
+    margin-left: 480px;
+  }
+
+/* nav menubar */
+  .nav-submenu{
+    display: flex;
+  }
+.logo{
+    margin-left: 65px;
+    margin-top: 20px;
+}
+  .logo img{
+    height: 60px;
+    width: 150px;
+  }
+  .nav-submenu-menu{
+    display: flex;
+  }
+
+  .nav-submenu-menu{
+    margin-left: 130px;
+  }
+
+
+  .submenu{
+    padding: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .submenu:hover{
+    background-color: #dbf2fd;
+    
+  }
+
+  .submenu h4{
+    font-size: small;
+  }
+
+  /* body-banner */
+  .banner{
+    position: relative;
+    /* background-color: #007bb5; */
+    width: 90%;
+    margin-left:5% ;
+  }
+
+  .banner-img img{
+    height: 600px;
+    width: 100%;
+  }
+
+
+  .banner-app{
+    position: absolute;
+    top: 30%;
+    left: 15%;
+  }
+
+  .banner-app-title h1{
+    font-weight:bold;
+    /* color: #bb0000; */
+  }
+  .banner-app-footer-btn {
+    background-color:  #17C1A3;
+    width: 120px;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+
+  .banner-app-footer-dr{
+    margin-top: 18px;
+    margin-left: 25px;
+  }
+
+
+
+  .banner-app-footer{
+    display: flex;
+  }
+  
+  .banner-app-footer a{
+    text-decoration: none;
+  }
+
+
+  .banner-form{
+    background-color: #ffffff;
+    width: 80%;
+    position: absolute;
+    top:90%;
+    left:12%;
+    border-radius: 4px;
+    height: 170px;
+  }
+
+
+  .banner-form-title{
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: -10px;
+  }
+
+  .app-form{
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 250px;
+    height: 30px;
+  }
+
+  .app-form2{
+    margin-left: 30px;
+    width: 258px;
+    height: 40px;
+    margin-top: 15px;
+  }
+
+  .banner-app-footer-btn2{
+    background-color:  #17C1A3;
+    width: 215px;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-left: 28px;
+    margin-top: 15px;
+    height: 5px;
+  }
+
+
+  .dep-body{
+    display: flex;
+  }
+
+  .footer{
+    /* background-color: #007bb5; */
+    margin-top: 10%;
+    height: 300px;
+  }
+  .footer1{
+    display: flex;
+  }
+
+  .footer12{
+    margin-left:10% ;
+    margin-top: 5%;
+  }
+
+
+  #footer12{
+    display: flex;
+    
+  }
+
+  #footer12 table{
+    margin-left: 100px;
+    width: 250px;
+  }
+  
+
+
+
+
+  .footer121{
+    height: 30px;
+    width: 270px;
+    margin-bottom: 50px;
+  }
+
+  .footer121 img{
+    height: 60px;
+    width: 200px;
+  }
+
+  hr{
+    margin-left: 50px;
+    width: 90%;
+    
+  }
+
+  .footer1{
+    font-size: smaller;
+  }
+
+  .footer2{
+    display: flex;
+    font-size: smaller;
+  }
+
+
+
+.table4{
+    width: 100px;
+    margin-right: 5%;
+   
+}
+.table4 td{
+    width: 100px;
+}
+
+
+  #customers {
+    border-collapse: collapse;
+    width: 80%;
+    margin-left: 150px;
+  }
+  
+  #customers td, #customers th {
+    padding: 8px;
+  }
+  
+  
+  #customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+
+  }
+
+
+
+
+
+
+  
