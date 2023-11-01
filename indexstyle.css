@@ -204,7 +204,7 @@ a{
 
   .footer{
     /* background-color: #007bb5; */
-    margin-top: 10%;
+    margin-top: 35%;
     height: 300px;
   }
   .footer1{
@@ -255,6 +255,7 @@ a{
   .footer2{
     display: flex;
     font-size: smaller;
+   
   }
 
 
@@ -289,7 +290,52 @@ a{
 
 
 
+  .sub{
+    width: 90%;
+    margin-left:5% ;
+    display: flex;
+    position: relative;
+    margin-top: 15%;
+  }
 
 
+  .sub-bg{
+    position:absolute;
+    left:0;
+  }
 
-  
+  .sub-title{
+    left:15%;
+    margin-top:10%;
+    position:absolute;
+  }
+  .sub-form2{
+    left:70%;
+    margin-top: 12%;
+    position:absolute;
+    display: flex;
+  }
+
+  .sub-form2 button{
+    background-color:  #17C1A3;
+    width: 120px;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    height: 15px;
+  }
+
+
+  .hr{
+    position: absolute;
+    left:65.5%;
+    margin-top: 175px;
+    width: 25%;
+  }
