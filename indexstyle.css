@@ -381,9 +381,14 @@ a {
     
   }
 
+  .int-body-desc{
+    font-size: smaller;
+  }
+
   .int-body-desc a{
     color: #17c1a3;
     font-weight: lighter;
+    /* font-size: x-small; */
   }
 
 
@@ -421,11 +426,6 @@ a {
   width: 200px;
 }
 
-hr {
-  margin-left: 50px;
-  width: 90%;
-}
-
 .footer1 {
   font-size: smaller;
 }
@@ -443,18 +443,18 @@ hr {
   width: 100px;
 }
 
-#customers {
+#table-foot {
   border-collapse: collapse;
   width: 80%;
   margin-left: 150px;
 }
 
-#customers td,
-#customers th {
+#table-foot td,
+#table-foot th {
   padding: 8px;
 }
 
-#customers th {
+#table-foot th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
