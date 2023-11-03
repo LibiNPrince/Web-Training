@@ -1,2 +1,0 @@
-This is just a front end static web application created only using HTML and CSS as a part of ILP Learning.The Context is based on cloning the url:
-https://www.figma.com/file/s0yWYp1UG6x0lPECyI3rel/Untitled?type=design&node-id=0-1&mode=design&t=xugC6BRkOSKQgubI-0
